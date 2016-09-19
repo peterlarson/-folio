@@ -7,7 +7,7 @@ description: deep dream neural network visualizaion tool can create interesting 
 
 A neat recent application of artifical neural networks has been a techinque called DeepDream. This technique was origionally <a href="https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html" target="blank">posted</a> on the google research blog, and the <a href="https://research.googleblog.com/2015/07/deepdream-code-example-for-visualizing.html" target="blank">source code</a> was made available for others to use. 
 
-The technique can create some intersting lookin photos. This technique applied to my profile pictured produced:
+The technique can create some intersting photos. This technique applied to my profile pictured produced:
 <div class="img_row">
     <img class="col one" src="/img/prof_pic.jpg">
 	<img class="col one" src="/img/snowy_dream.jpg">
