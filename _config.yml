@@ -15,7 +15,7 @@ highlighter: pygments
 
 # Pagination
 paginate: 15
-paginate_path: "/portfolio/page:num/"
+paginate_path: "/Home/page:num/"
 
 
 collections:
