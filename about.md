@@ -16,14 +16,13 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:peter@peterlarson.xyz"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/peterlarson" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/peter-larson-250887aa" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://plus.google.com/103762896403368624162" target="_blank"><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Email is the best way to reach me.
 </div>
 
