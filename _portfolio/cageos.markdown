@@ -5,12 +5,12 @@ description: Nick Cage themed operating system.
 img: /img/cageos_splash.png
 ---
 
-For my operating systems class sophmore year me and a team created an operating system. The neat thing about ours was that it was Nicholas Cage themed. 
+For my operating systems class sophmore year me and a team created an operating system. Ours was special because it was Nick Cage themed. 
 
 To do this we renamed our shell> prompt cage>, and we included some ascii art. The startup screen is as follows: 
-<div class="img_row">
+<div class="">
 <a href="{{ site.baseurl }}/cageOS">
-<img class="" src="{{ site.baseurl }}/img/cageos_splash.png" alt="" title="example image"/>
+<img class="two" src="{{ site.baseurl }}/img/cageos_splash.png" alt="" title="example image"/>
 </a>
 </div>
 
