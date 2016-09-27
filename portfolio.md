@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: portfolio (in progress)
 permalink: /portfolio/
 ---
 

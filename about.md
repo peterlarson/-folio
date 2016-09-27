@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Computer Scientist aspiring to change the world. Passionate about python, unity, C#, travel, and coffee. 
+Computer Scientist aspiring to change the world. Passionate about python, unity, C#, travel, and coffee. Currently a student at Rose Hulman graduating in 2017.
 
-Currently a student at Rose Hulman graduating in 2017.
+Check out some of my recent projects in the <a href = "../portfolio" > portfolio</a> section of the site, or <a href = "https://petersushi.blogspot.com" > pictures </a> from my time studying in Japan.  
 <!-- <a href="http://reddit.com" target="blank">subreddit</a>. -->
 
 <br/>
