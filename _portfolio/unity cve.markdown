@@ -2,7 +2,7 @@
 layout: post
 title: unity cve
 description: custom networking for unity 
-img:
+img: /img/cve_diagram.png
 ---
 
 During my time an the University of Aizu I worked on a project to allow unity to use a custom networking system. 
@@ -27,10 +27,12 @@ table ExtraParam {...}
 
 In retrospect JSON serialization would have been a better choice. While flatbuffers may have a small performance benefit, the ease of understanding and expanding JSON is a bigger benefit than the performance increase. 
 
-<div class="img_row">
+An example diagram for a similar project is shown below. In the diagram are listed some of the current CVE client devices. 
+<div class="">
 <a href="{{ site.baseurl }}/cageOS">
-<img class="col two" src="{{ site.baseurl }}/img/cageos_splash.png" alt="" title="example image"/>
+<img class="two" src="{{ site.baseurl }}/img/cve_diagram.png" alt="" title="example image"/>
 </a>
 </div>
 
+The github for the project can be found <a href="http://github.com/peterlarson/unity_cve">here</a>.
  
