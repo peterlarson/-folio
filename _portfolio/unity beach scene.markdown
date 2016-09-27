@@ -7,9 +7,9 @@ img: /img/umbrella_beach_square.PNG
 
 One project that I did was to make a simple unity game. I created models for the umbrella and the island in blender, and then exported them to unity. 
 
-<div class="img_row">
+<div class="">
 <a href="{{ site.baseurl }}/unity_beach_scene">
-<img class="" src="{{ site.baseurl }}/img/umbrella_beach_screen.PNG" alt="" title="example image"/>
+<img class="three" src="{{ site.baseurl }}/img/umbrella_beach_screen.PNG" alt="" title="example image"/>
 </a>
 </div>
 
