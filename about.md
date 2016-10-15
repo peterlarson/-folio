@@ -18,7 +18,7 @@ Check out some of my recent projects in the <a href = "../portfolio" > portfolio
 <span class="contacticon center">
 	<a href="mailto:peter@peterlarson.xyz"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/peterlarson" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/in/peter-larson-250887aa" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/peter-larson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://plus.google.com/103762896403368624162" target="_blank"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
 	<a href="https://www.facebook.com/peter.d.larson" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 
